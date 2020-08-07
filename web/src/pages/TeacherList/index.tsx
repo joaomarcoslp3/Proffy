@@ -8,7 +8,6 @@ import Select from '../../components/Select';
 
 import './styles.css';
 
-
 function TeacherList() {
   const [subject, setSubject] = useState('');
   const [week_day, setWeek_day] = useState('');
